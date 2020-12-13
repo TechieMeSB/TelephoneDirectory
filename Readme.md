@@ -5,19 +5,19 @@
 •	Using arrays we can store a person’s name and their telephone number and easily accessible.
 ### Following is implemented in the program
 •	To Append record we give:
-o	Name           
-o	Telephone no.         
+* Name           
+* Telephone no.         
 
 •	To Find record:
-o	Enter a name . We can search a name and number in phonebook
-o	It will display name and number if not then  No data found will be printed
+*	Enter a name . We can search a name and number in phonebook
+*	It will display name and number if not then  No data found will be printed
 
 •	To search and edit record:
-o	The name which has to be edited  is searched .
-o	If the name which we enter exists then the respective number of that person is edited.
-o	If the name does not exist then data not found will be printed. 
+*	The name which has to be edited  is searched .
+*	If the name which we enter exists then the respective number of that person is edited.
+*	If the name does not exist then data not found will be printed. 
 
 •	To show records:
-o	We can display all records present in phonebook . It displays person’s name and  their phone no. and Total number of records and 
-o	When done with execution we can exit using exit function.
+*	We can display all records present in phonebook . It displays person’s name and  their phone no. and Total number of records and 
+*	When done with execution we can exit using exit function.
  
